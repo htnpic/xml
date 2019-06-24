@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.0.1.2</version>
-    <url>https://github.com/htnpic/xml/raw/master/HTNpic%20Launcher%200.1.exe</url>
+    <version>0.0.1.4</version>
+    <url>https://github.com/htnpic/xml/raw/master/HTNpic%20Launcher.exe</url>
     <mandatory>false</mandatory>
 </item>
